@@ -1,0 +1,18 @@
+{
+    "uid": "player-number-one",
+    "displayName": "Player Number One",
+    "email": "bruno.be81@gmail.com",
+    "identification": "1104113889",
+    "age": 18,
+    "inscriptions": [
+        {
+            "name": "Administración de ...",
+            "degreeId": "administracion-empresas",
+            "period": "abril-agosto-2022"
+        }
+    ],
+    "testResult": {
+        "finalGrade": 100,
+        "evaluationDate": null
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "degreeId": "administracion-empresas",
+    "name": "Administración de Empresas",
+    "description": "lorem ipsum...",
+    "imageUrl": "https://",
+    "inscriptionUrl": "",
+    "testDurationInMinutes": 105,
+    "numberOfQuestions": 105,
+    "thematics": [
+        {
+            "thematicId": "abstract",
+            "name": "Abstracto"
+        },
+        {
+            "thematicId": "mathematic",
+            "name": "Comprensión Matemática"
+        }
+    ]
+}

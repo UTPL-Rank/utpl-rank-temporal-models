@@ -1,0 +1,65 @@
+{
+    "practiceId": "practice1111",
+    "uid": "player-number-one",
+    "questionary": [
+        {
+            "questionId": "q-1",
+            "questionText": "De que color es el cielo?",
+            "questionImage": null,
+            "type": "QUESTION#MULTIPLE_CHOICE",
+            "code": "25",
+            "answers": [
+                {
+                    "answerId": "1",
+                    "answerText": "Respuesta 1",
+                    "answerImage": null,
+                    "isCorrect": true
+                },
+                {
+                    "answerId": "2",
+                    "answerText": "Respuesta 3",
+                    "answerImage": null,
+                    "isCorrect": false
+                },
+                {
+                    "answerId": "3",
+                    "answerText": "Respuesta 2",
+                    "answerImage": null,
+                    "isCorrect": false
+                },
+                {
+                    "answerId": "4",
+                    "answerText": "Respuesta 4",
+                    "answerImage": null,
+                    "isCorrect": false
+                }
+            ],
+            "difficulty": {
+                "type": "DIFFICULTY#HARD",
+                "rightTries": 2,
+                "wrongTries": 20,
+                "emptyTries": 5
+            }
+        }
+    ],
+    "results": {
+        "totalPoints": 100,
+        "totalCorrect": 10,
+        "selection": [
+            {
+                "questionId": "q-1",
+                "answerId": "4"
+            }
+        ]
+    },
+    "gameMode": {
+        "name": "Practica Básica",
+        "description": "",
+        "gameRules": {
+            "numberOfQuestions": 10,
+            "timeInMinutes": 20,
+            "pointsWhenCorrect": 1,
+            "pointsWhenIncorrect": 0
+        }
+    }
+}

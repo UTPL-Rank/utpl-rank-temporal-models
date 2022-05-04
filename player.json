@@ -1,0 +1,22 @@
+{
+    "uid": "player-number-one",
+    "displayName": "Player Number One",
+    "avatarUrl": "https://",
+    "achievements": [
+        {
+            "name": "Obtener primeros puntos",
+            "type": "ACHIEVEMENTS#POINTS",
+            "date": null
+        },
+        {
+            "name": "Completa una practica perfecta",
+            "type": "ACHIEVEMENTS#CHALLENGE",
+            "date": null
+        }
+    ],
+    "points": {
+        "total": 100
+    }
+}
+
+

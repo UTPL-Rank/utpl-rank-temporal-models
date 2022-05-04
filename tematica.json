@@ -1,0 +1,40 @@
+[
+    {
+        "questionId": "q-1",
+        "questionText": "De que color es el cielo?",
+        "questionImage": null,
+        "type": "QUESTION#MULTIPLE_CHOICE",
+        "code": "25",
+        "thematic": {
+            "thematicId": "abstract"
+        },
+        "answers": [
+            {
+                "answerText": "Respuesta 1",
+                "answerImage": null,
+                "isCorrect": true
+            },
+            {
+                "answerText": "Respuesta 3",
+                "answerImage": null,
+                "isCorrect": false
+            },
+            {
+                "answerText": "Respuesta 2",
+                "answerImage": null,
+                "isCorrect": false
+            },
+            {
+                "answerText": "Respuesta 4",
+                "answerImage": null,
+                "isCorrect": false
+            }
+        ],
+        "difficulty": {
+            "type": "DIFFICULTY#HARD",
+            "rightTries": 2,
+            "wrongTries": 20,
+            "emptyTries": 5
+        }
+    }
+]

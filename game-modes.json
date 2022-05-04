@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Practica Básica",
+        "description": "",
+        "gameRules": {
+            "numberOfQuestions": 10,
+            "timeInMinutes": 20,
+            "pointsWhenCorrect": 1,
+            "pointsWhenIncorrect": 0
+        }
+    }
+]
